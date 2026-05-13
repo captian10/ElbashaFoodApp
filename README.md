@@ -1,14 +1,14 @@
-# ElbashaFoodApp 🍔📱
+# ElbashaFoodApp 
 A food ordering mobile application built with **React Native + TypeScript** with a clean and modern UI.
 
-## 🚀 Features
+## Features
 - Browse food menu items
 - Category-based UI structure
 - Ready structure for cart & checkout flow
 - Smooth UX with reusable components
 - Backend-ready setup (Supabase folder included)
 
-## 🧰 Tech Stack
+## Tech Stack
 - React Native (Expo)
 - TypeScript
 - Supabase (ready for Auth/Database)
